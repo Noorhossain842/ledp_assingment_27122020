@@ -1,0 +1,36 @@
+body{
+	       background-color: #bcceca;
+    padding: 10px;
+}
+header h1{
+    text-align: center;
+    font-family: sans-serif;
+    color: #e63131;
+    text-shadow: 8px 8px 10px #b71c47;
+}
+.main_content h1{
+    font-size: 50px;
+    text-shadow: 6px 4px 20px #a05c5c;
+    text-align: center;
+    }
+.internal_linking li{
+	list-style: none;
+    text-align: center;
+}
+.internal_linking li a{
+	    text-decoration: none;
+    font-size: 50px;
+    color: darkslategrey;
+    text-shadow: 8px 9px 8px #1a2e90;
+}
+.internal_linking li a:hover{
+	color: #d21b56;
+    text-shadow: 4px 6px 6px #066311;
+}
+footer h4{
+	font-size: 10px;
+    font-family: monospace;
+    text-align: end;
+    color: #22595a;
+    text-shadow: 1px 1px 14px #b52828;
+}
